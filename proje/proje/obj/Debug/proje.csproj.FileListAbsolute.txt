@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\proje\proje\bin\Debug\proje.exe.config
+C:\Users\user\Desktop\projeler\proje\proje\bin\Debug\proje.exe
+C:\Users\user\Desktop\projeler\proje\proje\bin\Debug\proje.pdb
+C:\Users\user\Desktop\projeler\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\proje\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\proje\proje\obj\Debug\proje.exe
+C:\Users\user\Desktop\projeler\proje\proje\obj\Debug\proje.pdb
